@@ -1,5 +1,5 @@
 ---
-title: 	INGENIERIO DE SISTEMAS
+title: 	INGENIERO DE SISTEMAS
 published: true
 ---
 
