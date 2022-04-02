@@ -5,21 +5,23 @@ published: true
 
 Experiencia en Banca y  **SCRIPT** EJ, ~~guardar ciertas obras~~ or `Palabra Clave`.
 
-[Enlace WEB a UBA](another-page).
+[Enlace WEB a UBA](http://bit.ly/2lJMsgO).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Experiencia 1 
+# [](#header-1) RMG / Mi Banco 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Operaciones y monitoreo de gestión diaria en el TSM, respaldo y restauración siguiendo la cadena de mando dictado por la gerencia de
+operaciones, actualmente se está trabajando con la herramienta de COMMVAULT, viene a suplantar el anterior TSM para facilitar el
+constante requerimientos de los usuarios para realizar tareas de restauraciones con fechas que solicitan cintas magnéticas.
 
-## [](#header-2)Experiencia 2
+## [](#header-1) GITECA / SUNARP
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Servicio de soporte de Hardware y Software para diferentes aplicaciones desarrollada en POWER BUIDER, mantener estabilidad en área
+de Redes para las diferentes sedes de SUNARP en el Perú, monitoreo para continuidad operativa en WorkStation para el usuario,
+conectividad Voz / ip. • Virtualización con VMware,VirtualBox, Hyper-v.• Hirens Boot .• DLC
 
 ### [](#header-3)Experiencia 3
 
