@@ -14,8 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # [](#header-1) RMG / Mi Banco 
 
 Operaciones y monitoreo de gestión diaria en el TSM, respaldo y restauración siguiendo la cadena de mando dictado por la gerencia de
-operaciones, actualmente se está trabajando con la herramienta de COMMVAULT, viene a suplantar el anterior TSM para facilitar el
-constante requerimientos de los usuarios para realizar tareas de restauraciones con fechas que solicitan cintas magnéticas.
+operaciones, actualmente se está trabajando con la herramienta de COMMVAULT, viene aliviar la herramienta TSM anteel constante requerimientos de los usuarios para realizar tareas de restauraciones con fechas que solicitan cintas magnéticas.
 
 # [](#header-1) GITECA / SUNARP
 
